@@ -1,8 +1,3 @@
-[submodule "hwangjjung.github.io"]
-	path = hwangjjung.github.io
-	url = git@github.com:hwangjjung/hwangjjung.github.io.git
-	branch = master
-[submodule "public"]
-	path = public
-	url = git@github.com:hwangjjung/hwangjjung.github.io.git
-	branch = master
+[submodule "publi"]
+	path = publi
+	url = git://github.com/hwangjjung/hwangjjung.github.io.git
