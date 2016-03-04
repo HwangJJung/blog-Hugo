@@ -1,7 +1,0 @@
-[submodule "publi"]
-	path = publi
-	url = git://github.com/hwangjjung/hwangjjung.github.io.git
-[submodule "public"]
-	path = public
-	url = git://github.com/HwangJJung/hwangjjung.github.io.git
-	branch = master
